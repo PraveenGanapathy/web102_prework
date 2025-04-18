@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/jDFJo7m"  ><a href="//imgur.com/a/jDFJo7m">codepathorg_prework_web</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Video-Walkthrough](gif/capture.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with KAP  
