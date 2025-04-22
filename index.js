@@ -145,7 +145,7 @@ function filterFundedOnly() {
     //console.log(fundedGames);
 
 }
-filterFundedOnly();
+// filterFundedOnly();
 // show all games
 function showAllGames() {
     deleteChildElements(gamesContainer);
